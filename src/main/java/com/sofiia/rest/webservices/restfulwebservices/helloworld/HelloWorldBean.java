@@ -1,4 +1,4 @@
-package com.sofiia.rest.webservices.restfulwebservices;
+package com.sofiia.rest.webservices.restfulwebservices.helloworld;
 
 public class HelloWorldBean {
 
