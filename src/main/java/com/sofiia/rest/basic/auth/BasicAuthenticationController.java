@@ -1,4 +1,4 @@
-package com.sofiia.rest.webservices.restfulwebservices.basic.auth;
+package com.sofiia.rest.basic.auth;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;

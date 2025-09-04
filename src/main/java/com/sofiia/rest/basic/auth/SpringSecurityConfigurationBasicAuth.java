@@ -1,4 +1,4 @@
-package com.sofiia.rest.webservices.restfulwebservices.basic.auth;
+package com.sofiia.rest.basic.auth;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

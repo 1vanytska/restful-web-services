@@ -1,4 +1,4 @@
-package com.sofiia.rest.webservices.restfulwebservices.basic.auth;
+package com.sofiia.rest.basic.auth;
 
 public class AuthenticationBean {
 

@@ -1,7 +1,5 @@
-package com.sofiia.rest.webservices.restfulwebservices;
+package com.sofiia.rest.webservices.restfulwebservices.todo;
 
-import com.sofiia.rest.webservices.restfulwebservices.todo.Todo;
-import com.sofiia.rest.webservices.restfulwebservices.todo.TodoHardcodedService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

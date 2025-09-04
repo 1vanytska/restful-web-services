@@ -1,4 +1,4 @@
-package com.sofiia.rest.webservices.restfulwebservices;
+package com.sofiia.rest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
